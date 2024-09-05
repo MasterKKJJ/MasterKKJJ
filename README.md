@@ -1,3 +1,4 @@
 # Bem-vindo ao meu perfil!
+#### Linguagens mais usadas por mim:
 
-![Zarby009's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarby009&show_icons=true&theme=slateorange)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarby009&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
