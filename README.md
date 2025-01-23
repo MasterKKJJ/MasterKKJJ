@@ -1,10 +1,12 @@
 # Bem-vindo ao meu perfil!
 
-Olá! Meu nome é Enderson mas pode me chamade de Master, Programador Web e com experiência em `C#` (Criando Cheats e alguns Programas/Softwares), `MySQL`, `Python`, `Node`, `Javascript`,`Tailwind`, entre outras tecnologias. Estou sempre em busca de novos desafios para aprimorar minhas habilidades.
+Olá! Meu nome é Enderson mas pode me chamar de Master, Programador Web com experiência em `Javascript`,`Node`,`Tailwind`, `MySQL`, `Python` e entre outras tecnologias.
+Também tenho experiência em `C#` (Criando Cheats e alguns Programas/Softwares).
+Estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
-### O que eu faço:
-Atuo no desenvolvimento de APIs e sites WEB. Meu objetivo é alcançar resultados eficientes e de qualidade, aplicando as melhores práticas e soluções em cada projeto.
-Gosto bastante de Engenharia Reversa (Android e Software) e Pentest WEB, gostava de explorar falhas em sites ( com permissão ) na HackTheBox para aprimorar meus conhecimentos de como funcionava os erros, bugs, exploits etc... Mas isso já faz muito tempo.
+### O que eu faço hoje:
+- Atuo no desenvolvimento de APIs e sites WEB. Meu objetivo é alcançar resultados eficientes e de qualidade, aplicando as melhores práticas e soluções em cada projeto.
+
 
 ### Principais Linguagens de Programação que Uso:
 
