@@ -11,7 +11,7 @@ Estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
 ### Principais Linguagens de Programação que Uso:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zarby009&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterKKJJ&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Minhas Contribuições no GitHub:
 
