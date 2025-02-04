@@ -15,7 +15,7 @@ Estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
 ### Minhas Contribuições no GitHub:
 
-![Zarby009's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterKKJJ&show_icons=true&theme=slateorange)
+![Master's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterKKJJ&show_icons=true&theme=slateorange)
 
 ### Como me encontrar:
 
